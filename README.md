@@ -1,4 +1,4 @@
-=====================TWIGG: Twitter Grammar Generator======================
+======================TWIGG: Twitter Grammar Generator=======================
 
 SYNOPSIS
 ----------------
