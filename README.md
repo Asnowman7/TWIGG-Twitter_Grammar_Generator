@@ -2,7 +2,7 @@
 
 SYNOPSIS
 ----------------
-This is a script that pulls the most recent 50 tweets from a person’s Twitter account and then uses those tweets to generate a grammar unique to that user.
+This is a script that pulls the most recent 50 tweets from a person’s Twitter account and then uses those tweets to generate a grammar unique to that user and provides brief statistical analysis of data.
 ---------------------
 INSTALLATION
 ---------------------
